@@ -1,0 +1,35 @@
+﻿.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    //height: 500px;
+}
+
+.form-container {
+    width: 450px;
+    padding: 50px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+.form-group{
+    width:350px;
+}
+.btns{
+    width:350px;
+    margin-top:20px;
+}
+.center{
+    text-align: center;
+}
+.btn-grey {
+    color: #fff;
+    background-color: #adb5bd;
+    border-color: #adb5bd;
+}
+btn-grey:hover {
+    background-color: #8c98a3;
+}
+.space{
+    margin-right:50px;
+}
